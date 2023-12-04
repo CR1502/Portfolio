@@ -114,7 +114,7 @@ const AboutSection = () => {
             <TabButton
               selectTab={() => handleTabChange("certifications")}
               active={tab === "certifications"}
-            >
+            > 
               {" "}
               Certifications{" "}
             </TabButton>
