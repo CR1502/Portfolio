@@ -39,7 +39,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>VIT Bhopal University - B.Tech in Computer Science and Engineering with specialization in AI and ML (2020-2024)</li>
-        <li>St.Josephs Pre-University College (2018-2019)</li>
+        <li>St.Josephs Pre-University College (2019-2020)</li>
       </ul>
     ),
   },
