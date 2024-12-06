@@ -38,6 +38,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
+        <li>Northeastern University - MS in Artificial Intelligence (present)</li>
         <li>VIT Bhopal University - B.Tech in Computer Science and Engineering with specialization in AI and ML (2020-2024)</li>
         <li>St.Josephs Pre-University College (2019-2020)</li>
       </ul>
