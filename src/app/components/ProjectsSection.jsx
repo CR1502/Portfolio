@@ -7,6 +7,14 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "PiGaze",
+    description: "Eye gaze tracking with Raspberry Pi.",
+    image: "/images/projects/Pigaze.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/CR1502/PiGaze",
+  },
+  {
+    id: 2,
     title: "PromptlyPost",
     description: "AI Email Marketing Assisstant.",
     image: "/images/projects/promptlypost.png",
@@ -14,7 +22,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/Recommender",
   },
   {
-    id: 2,
+    id: 3,
     title: "SoundScape",
     description: "Translates Audio into Images.",
     image: "/images/projects/soundscape.png",
@@ -22,7 +30,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/tech-titans",
   },
   {
-    id: 3,
+    id: 4,
     title: "SoundForge",
     description: "Evolutionary Algorithm that generates 8-bit music.",
     image: "/images/projects/soundforge.png",
@@ -30,7 +38,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/Sound_Forge",
   },
   {
-    id: 4,
+    id: 5,
     title: "NeuralPaint",
     description: "GAN model that generates unique art.",
     image: "/images/projects/NeuralPaint.png",
@@ -38,7 +46,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/NeuralPaint",
   },
   {
-    id: 5,
+    id: 6,
     title: "SmartSprout",
     description: "ANN that works along with a IoT devices to predict whether crops required irrigation or not.",
     image: "/images/projects/SmartSprout.png",
@@ -46,7 +54,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/Smart-Irrigation",
   },
   {
-    id: 6,
+    id: 7,
     title: "MultiMed",
     description: "A combination of multiple Artificial Neural Networks that help to predict 3 types of diseases.",
     image: "/images/projects/Multimed.png",
@@ -54,7 +62,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/MultiMed",
   },
   {
-    id: 7,
+    id: 8,
     title: "DriveSafe",
     description: "Application that would alert drivers if they are drowsy while driving.",
     image: "/images/projects/Drivesafe.png",
@@ -62,7 +70,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/DriveSafe",
   },
   {
-    id: 8,
+    id: 9,
     title: "Occipital",
     description: "Application that detects which language a given text is in.",
     image: "/images/projects/Occipital.png",
@@ -70,7 +78,7 @@ const projectsData = [
     gitUrl: "https://github.com/CR1502/Occipital",
   },
   {
-    id: 9,
+    id: 10,
     title: "SudokuSolver",
     description: "Application that helps you solve your sudoku.",
     image: "/images/projects/sudokusolver.png",
